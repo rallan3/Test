@@ -2,4 +2,4 @@ this would be a sequence
 gtagcgcctagcgat
 gatcggcatatatcgat
 ctagcgagctagct
-gatgcgatatagcgata
+gagatatagcgata
