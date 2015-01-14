@@ -1,5 +1,6 @@
 this would be a sequence
 gtagcgcctagcgat
 gatcggcatatatcgat
-ctagcgagctagct
+
+
 gagatatagcgata
